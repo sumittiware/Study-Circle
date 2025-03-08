@@ -8,7 +8,7 @@ Listing and rooms experience
 ![image](https://github.com/user-attachments/assets/2fb29cb7-0ffd-42c1-8dd8-404bf8b02f00)
 
 
-Quiz experience\n
+Quiz experience\
 ![image](https://github.com/user-attachments/assets/5825a191-7090-44e5-96f2-4c92c1a3c21b)
 
 Leaderboard experience
